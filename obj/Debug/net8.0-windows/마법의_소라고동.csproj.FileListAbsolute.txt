@@ -1,0 +1,14 @@
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\bin\Debug\net8.0-windows\마법의_소라고동.exe
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\bin\Debug\net8.0-windows\마법의_소라고동.deps.json
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\bin\Debug\net8.0-windows\마법의_소라고동.runtimeconfig.json
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\bin\Debug\net8.0-windows\마법의_소라고동.dll
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\bin\Debug\net8.0-windows\마법의_소라고동.pdb
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.Form1.resources
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.csproj.GenerateResource.cache
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.AssemblyInfoInputs.cache
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.AssemblyInfo.cs
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.csproj.CoreCompileInputs.cache
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.dll
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.pdb
+C:\Users\batte\OneDrive\바탕 화면\C#\마법의_소라고동\obj\Debug\net8.0-windows\마법의_소라고동.genruntimeconfig.cache

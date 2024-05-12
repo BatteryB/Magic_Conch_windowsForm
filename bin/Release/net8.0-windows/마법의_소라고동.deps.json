@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "마법의_소라고동/1.0.0": {
+        "runtime": {
+          "마법의_소라고동.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "마법의_소라고동/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
