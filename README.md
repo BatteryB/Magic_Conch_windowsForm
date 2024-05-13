@@ -7,5 +7,5 @@ runtime-8.0을 다운로드 해야합니다.
 <br>
 <br>
 \bin\Release\net8.0- on the Windows path
-You can run the <h4>"magic_SoraGodong.exe"</h4> file.<br>
+You can run the <h4>"마법의_소라고동.exe"</h4> file.<br>
 ou must download runtime-8.0
